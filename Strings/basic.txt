@@ -1,0 +1,22 @@
+Strings are used to store and manipulate text.
+Example:
+    let name = "JavaScript";
+    name[0]     //print J
+    name[2]     //print a
+
+
+In string there are some properties and method to manipulate the strings.
+1).length
+2).toUpperCase()
+3).toLowerCase()
+4).slice(7,9)
+    taking "javascript" as an Example.note:counting starts from 0
+    and it slice from 7 to 9 except 9.
+    print ip
+
+  .slice(7)
+      and it slice from 7 to end.
+      print ipt
+5).replace()
+6).trim() : removes white space
+7).concat() : add two strings
