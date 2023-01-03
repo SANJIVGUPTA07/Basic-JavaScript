@@ -1,0 +1,14 @@
+Variable is a container which is used to stores a value;
+In javascript there are three type of variable:
+    1.var:we can declare the variable and its value and anywhere in javascript
+    2.let:it is first assigned the variable and then declare or change in javascript.
+    3.const:once assigned the value it cannot be changed i.e. constant.
+Example:
+    var/let/const  var_name = value;
+
+    var/let/const==variable
+    var_name==Variable NAME
+    value==ANY VALUE
+
+    
+
