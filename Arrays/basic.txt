@@ -1,0 +1,34 @@
+In javaScript array are the variable which can store more than one value
+example:
+    const fruit = {"apple","orange","Mango};
+    const val = {7,"javaScript",false};
+
+In array their are some method and properties which is used to 
+manipulate the array
+And these methods are as follow
+1)toString() : it converts array to string of comma separated value
+2)join() : join all the array elements using a separator
+3)pop() : it is used to remove the last element from an array
+4)push() : it is used to add the element at the end of array
+5)shift() : it remove the first element and returns it
+6)unShift() : add element at beginning and returns new array length
+7)delete : used to delete array element 
+            example
+                let d = [7,1,2,3,4]
+                delete d[index] i.e delete d[0] i.e delete 7
+
+8)conCat() : used to join to different array into single array
+9)sort() : sort array element *alphabetically(a,b,c,d,e..)*
+10)splice() : used to add new items in array and it returns 
+              deleted items and it modifies an array
+
+              example:
+                const number = [1,2,3,4,5];
+                
+                number.splice( position_to_add , no. of element to remove , elements to be added using comma separated);
+
+                number.splice(2,1,23,11);
+                it will return deleted array item and modifies the original array
+11)slice() : slice out a piece from an array.it create a new array
+12)reverse() : it reverse array elements
+
